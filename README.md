@@ -1,4 +1,4 @@
-# Image_Classification_ResNet
+# Image_Classification
 
 Multi-label Image Classification with ResNet
 
